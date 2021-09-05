@@ -1,5 +1,5 @@
 # Maturaarbeit
-Maturaarbeit zu Reinforcement Learning
+Maturaarbeit zu Deep Reinforcement Learning
 
 Die Originaldatei zum Pong Spiel befindet sich unter: https://github.com/clear-code-projects/Pong_in_Pygame 
 
